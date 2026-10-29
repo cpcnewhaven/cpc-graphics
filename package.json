@@ -1,0 +1,14 @@
+{
+  "name": "cpc-graphics",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "build": "node scripts/build.mjs",
+    "assets:sync": "node scripts/assets.mjs sync",
+    "bucket:create": "node scripts/assets.mjs create",
+    "check": "node --check public/app.js && node --check scripts/assets.mjs && node --check scripts/build.mjs",
+    "assets:watch": "node scripts/assets.mjs watch",
+    "bucket:public": "node scripts/assets.mjs public"
+  }
+}

@@ -2,9 +2,9 @@
 
 Nine proposed pairings across three directions. Community-informed, not a formal Reddit endorsement. All families are Google Fonts and appear in Canva’s guides or published catalog references. Confirm the exact font and weight in the CPC Canva workspace. These fonts need loading on the web or installation for desktop work; Georgia and Arial are the web-safe fallbacks.
 
-Recommended starting point: **A1 — Libre Baskerville + Open Sans**.
+Recommended starting point: **Font 1 — Libre Baskerville + Open Sans**.
 
-## A1 · A · Rooted & welcoming · The everyday classic
+## Font 1 · A · Rooted & welcoming · The everyday classic
 
 - Heading: **Libre Baskerville 700**
 - Body: **Open Sans 400**
@@ -13,7 +13,7 @@ Recommended starting point: **A1 — Libre Baskerville + Open Sans**.
 - Evidence: Reddit recommends these families individually; this exact pairing is our editorial recommendation.
 - Fallbacks: Georgia / Arial.
 
-## A2 · A · Rooted & welcoming · The gentle editorial
+## Font 2 · A · Rooted & welcoming · The gentle editorial
 
 - Heading: **Lora 600**
 - Body: **Lato 400**
@@ -22,7 +22,7 @@ Recommended starting point: **A1 — Libre Baskerville + Open Sans**.
 - Evidence: A commenter in the linked r/typography resume discussion explicitly recommends Lato + Lora.
 - Fallbacks: Georgia / Arial.
 
-## A3 · A · Rooted & welcoming · The practical reader
+## Font 3 · A · Rooted & welcoming · The practical reader
 
 - Heading: **Merriweather 700**
 - Body: **Open Sans 400**
@@ -31,7 +31,7 @@ Recommended starting point: **A1 — Libre Baskerville + Open Sans**.
 - Evidence: Reddit discussions recommend Merriweather and Open Sans as workhorse families; the exact combination is our recommendation.
 - Fallbacks: Georgia / Arial.
 
-## B1 · B · Clear & contemporary · The confident welcome
+## Font 4 · B · Clear & contemporary · The confident welcome
 
 - Heading: **Montserrat 600**
 - Body: **Lora 400**
@@ -40,7 +40,7 @@ Recommended starting point: **A1 — Libre Baskerville + Open Sans**.
 - Evidence: Reddit mentions Montserrat as versatile, with some commenters calling it overused. The pairing is our recommendation.
 - Fallbacks: Georgia / Arial.
 
-## B2 · B · Clear & contemporary · The quiet modern
+## Font 5 · B · Clear & contemporary · The quiet modern
 
 - Heading: **Raleway 600**
 - Body: **Open Sans 400**
@@ -49,7 +49,7 @@ Recommended starting point: **A1 — Libre Baskerville + Open Sans**.
 - Evidence: This exact combination appears in Canva’s Google font pairing guide; Reddit provides broader support for Open Sans.
 - Fallbacks: Georgia / Arial.
 
-## B3 · B · Clear & contemporary · The all-purpose system
+## Font 6 · B · Clear & contemporary · The all-purpose system
 
 - Heading: **Montserrat 700**
 - Body: **Open Sans 400**
@@ -58,7 +58,7 @@ Recommended starting point: **A1 — Libre Baskerville + Open Sans**.
 - Evidence: Both families are recommended in community discussions. Exact combination selected for CPC’s practical use cases.
 - Fallbacks: Georgia / Arial.
 
-## C1 · C · Expressive & event-led · The special occasion
+## Font 7 · C · Expressive & event-led · The special occasion
 
 - Heading: **Playfair Display 700**
 - Body: **Lato 400**
@@ -67,7 +67,7 @@ Recommended starting point: **A1 — Libre Baskerville + Open Sans**.
 - Evidence: An editorial recommendation based on contrast and use case, not a claim of Reddit consensus on this exact pair.
 - Fallbacks: Georgia / Arial.
 
-## C2 · C · Expressive & event-led · The poster voice
+## Font 8 · C · Expressive & event-led · The poster voice
 
 - Heading: **Oswald 600**
 - Body: **Open Sans 400**
@@ -76,7 +76,7 @@ Recommended starting point: **A1 — Libre Baskerville + Open Sans**.
 - Evidence: Canva features Oswald and Open Sans in its font guides. The exact combination is our recommendation.
 - Fallbacks: Georgia / Arial.
 
-## C3 · C · Expressive & event-led · The literary invitation
+## Font 9 · C · Expressive & event-led · The literary invitation
 
 - Heading: **Libre Baskerville 700**
 - Body: **Montserrat 400**
